@@ -1,3 +1,3 @@
 # ekdlakdl12_NET
 
-## undecided
+## decided
