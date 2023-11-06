@@ -3,7 +3,7 @@
 <div align="center">
 <img width="329" alt="test.png">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![test](https://github.com/ekdlakdl12/ekdlakdl12_NET/assets/56615819/a3a4a49b-1d1c-4f06-8362-b9b30e6f5673)
 
 </div>
 
