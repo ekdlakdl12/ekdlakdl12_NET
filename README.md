@@ -13,10 +13,7 @@
 ## 개발팀 소개
 
 |       최준영       |          미정         |       미정         |                                                                                                               
-| :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|      
-|   [@choijunyeong](https://github.com/ekdlakdl12)   |    미정   |  미정  |
-| 선문대학교 글로벌소프트웨어학과 4학년 |  미정  | 미정 |
+| :------------------------------------------------------------------------------: |
 
 ## 프로젝트 소개
 
@@ -29,9 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)             
-
-### Config
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)        
+     
 
 ### Development
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
