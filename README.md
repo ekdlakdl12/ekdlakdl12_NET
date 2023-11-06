@@ -1,3 +1,3 @@
 # ekdlakdl12_NET
 
-<img src="https://img.shields.io/badge/C#-E34F26?style=plastic&logo=html5&logoColor=white">
+![C#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
