@@ -1,7 +1,7 @@
 # ekdlakdl12_NET
 
 <div align="center">
-<img width="329" alt=https://i.namu.wiki/i/hyTzKGkYc7-ts0T_4T-mSiSrqVy19FQ8gbSSwDhUu_51GdsxGkt1gPdescndHS1uZREA-CidwHelbwRQ26OWxE8mLDSkuDySqVCpmuU4NLWjFw8-AnZPwznPjXPpZLfyLFGuIg3XIyl9tgPl3gaMsw.png>
+<img width="329" alt="https://i.namu.wiki/i/hyTzKGkYc7-ts0T_4T-mSiSrqVy19FQ8gbSSwDhUu_51GdsxGkt1gPdescndHS1uZREA-CidwHelbwRQ26OWxE8mLDSkuDySqVCpmuU4NLWjFw8-AnZPwznPjXPpZLfyLFGuIg3XIyl9tgPl3gaMsw.png">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
