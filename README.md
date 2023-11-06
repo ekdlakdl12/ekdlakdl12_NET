@@ -8,7 +8,7 @@
 </div>
 
 # ---프로젝트명 미정 v2.0
-> **최준영_AI소프트웨어학과** <br/> **개발기간: ----미정
+> **최준영_AI소프트웨어학과** <br/>
 
 ## 개발팀 소개
 
@@ -33,21 +33,4 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
----
-## 화면 구성 📺
-| 메인 페이지  |  소개 페이지   |
-| :-------------------------------------------: | :------------: |
 
-
-
----
-## 주요 기능 📦
----
-
-
-## 아키텍쳐
----
-
-
-### 디렉토리 구조
----
