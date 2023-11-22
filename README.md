@@ -19,7 +19,7 @@
 미정
 
 
-## Stacks 🐈
+## Stacks
      
 ## Environment
 
