@@ -1,9 +1,9 @@
-📚 프로젝트 소개
-본 프로젝트는 엘리스 AI 트랙 11기 첫 번째 프로젝트로, 2팀에서 개발한 포토폴리오 공유사이트 '엘리스 벨리' 입니다.  
+📚 프로젝트 소개  
+본 프로젝트는 엘리스 AI 트랙 11기 첫 번째 프로젝트로, 2팀에서 개발한 포토폴리오 공유사이트 '엘리스 벨리' 입니다.    
   
   
-프로젝트 기간
-2024년 6월 17일(월) ~ 2023년 6월 28일(금), 약 2주 간
+프로젝트 기간  
+2024년 6월 17일(월) ~ 2023년 6월 28일(금), 약 2주 간  
   
   
 프로젝트 목적
@@ -22,9 +22,10 @@ Back-end  : <img src="https://img.shields.io/badge/node.js-339933?style=for-the-
 | Back-end | 김재영, 최준영 |
   
 <br/>
-
-📚 서비스 기능
-User(사용자 관련 기능)
+  
+📚 서비스 기능  
+User(사용자 관련 기능)  
+  
 1️⃣ 회원가입
 
 사용자 정보 형식 확인
@@ -52,13 +53,13 @@ DB 존재 여부 확인
 
 <br/>
 
-📚 서비스 관련
-테스트 계정
-ID : test@test.com
-PW : test
-
-API Description
-→ API 명세서 바로가기r=white"/>
-<img src="https://docs.google.com/spreadsheets/d/1zf1ba67KJeYdKVzmxcpR9E7Rf_9xZpqaGcunBZAFwtM/edit?gid=0#gid=0"> 
+📚 서비스 관련  
+테스트 계정  
+ID : test@test.com  
+PW : test  
+  
+API Description  
+→ API 명세서 바로가기r=white"/>  
+<img src="https://docs.google.com/spreadsheets/d/1zf1ba67KJeYdKVzmxcpR9E7Rf_9xZpqaGcunBZAFwtM/edit?gid=0#gid=0">   
 
 </div>
