@@ -1,13 +1,13 @@
 📚 프로젝트 소개  
-본 프로젝트는 엘리스 AI 트랙 11기 첫 번째 프로젝트로, 2팀에서 개발한 포토폴리오 공유사이트 '엘리스 벨리' 입니다.    
+   - 본 프로젝트는 엘리스 AI 트랙 11기 첫 번째 프로젝트로, 2팀에서 개발한 포토폴리오 공유사이트 '엘리스 벨리' 입니다.    
   
   
 프로젝트 기간  
-2024년 6월 17일(월) ~ 2023년 6월 28일(금), 약 2주 간  
+  -2024년 6월 17일(월) ~ 2023년 6월 28일(금), 약 2주 간  
   
   
 프로젝트 목적
-포토폴리오를 저장하고 공유하는 사이트  
+  -포토폴리오를 저장하고 공유하는 사이트  
   
   
 기술 스택
@@ -26,40 +26,44 @@ Back-end  : <img src="https://img.shields.io/badge/node.js-339933?style=for-the-
 📚 서비스 기능  
 User(사용자 관련 기능)  
   
-1️⃣ 회원가입
+1️⃣ 인증
 
-사용자 정보 형식 확인
-사용자 정보 DB 저장
+- 회원가입/탈퇴
+- 이메일 인증
+- 로그인/로그아웃
+- 비밀번호 변경
 
-<br/>
-
-2️⃣ 로그인
+2️⃣ 유저 게인페이지
  
-DB 존재 여부 확인
-비밀번호 일치 확인
-비밀번호 변경
-이메일 인증
+-다른 유저의 개인 페이지는 조회만 가능
+1.유저프로필  
+- 프로필 변경
+- 프로필사진 url
+- 이름
+- 설명
 
-1️⃣ 유저프로필사진(URL)
-
- 
-카테고리 구분, 상품 목록 조회
-
-<br/>
-
-2️⃣ 상품
- 
-
-
-<br/>
-
+2.학력
+- CRUD
+  
+3.수상 이력
+- CRUD
+  
+4.포트폴리오
+- CRUD
+  
+5.자격증
+- CRUD
+  
+1️⃣ 유저네트워크 페이지
+- 모든 유저 카드
+  
 📚 서비스 관련  
 테스트 계정  
 ID : test@test.com  
 PW : test  
-  
+
 API Description  
 → API 명세서 바로가기r=white"/>  
-<img src="https://docs.google.com/spreadsheets/d/1zf1ba67KJeYdKVzmxcpR9E7Rf_9xZpqaGcunBZAFwtM/edit?gid=0#gid=0">   
-
+<a href="https://docs.google.com/spreadsheets/d/1zf1ba67KJeYdKVzmxcpR9E7Rf_9xZpqaGcunBZAFwtM/edit?gid=0#gid=0">   
+  
 </div>
